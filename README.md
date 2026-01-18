@@ -16,3 +16,5 @@ Thanks for stopping by, let's code some magic and build cool stuff together!
 [![Mail](https://img.shields.io/badge/Email-rahu8299@gmail.com-blue)](mailto:rahu8299@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/rahulsushilsharma?style=social)](https://github.com/rahulsushilsharma)
 [![Twitter](https://img.shields.io/twitter/follow/Rahulsharma0_0?style=social)](https://twitter.com/Rahulsharma0_0)
+[Portfolio](https://rahulsharma.app)
+[AI Projects](https://ai.rahulsharma.app)
