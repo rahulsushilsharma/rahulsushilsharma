@@ -1,16 +1,15 @@
-# Hello, World! 👋
+# Hello, World! I'm Rahul Sharma
 
-I'm a coding enthusiast on a mission to create tech magic! 🚀
+Software Engineer with experience in backend systems, cloud infrastructure, and applied AI.
 
-- 🔭 Currently crafting amazing projects with LLM tech and vector databases.
-- 🌱 Forever learning and exploring the coding universe.
-- 👯 Open to collaborations that bring ideas to life.
-- 🤔 Looking to help fellow coders in need.
-- 💬 Ask me anything tech-related!
+- Building scalable APIs and services using Python and Go
+- Working with AWS, Docker, Kubernetes, and CI/CD pipelines
+- Developing AI-enabled systems using LLMs, RAG pipelines, and vector databases
+- Interested in system design, performance, and developer tooling
 
-⚡ Fun fact: Coding + Coffee = My superpowers! ☕💻
+ Coding + Coffee = My superpowers!
 
-Thanks for stopping by, let's code some magic and build cool stuff together! ✨✨
+Thanks for stopping by, let's code some magic and build cool stuff together! 
 
 📫 Reach me:
 
