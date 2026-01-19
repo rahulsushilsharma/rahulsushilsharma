@@ -1,4 +1,5 @@
-# Hello, World! I'm Rahul Sharma
+# Hello, World!
+I'm Rahul Sharma
 
 Software Engineer with experience in backend systems, cloud infrastructure, and applied AI.
 
